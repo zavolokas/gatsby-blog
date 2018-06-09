@@ -1,8 +1,8 @@
 sudo: false
 language: node_js
-cache:
-  directories:
-  - "~/.npm"
+# cache:
+#   directories:
+#   - "~/.npm"
 node_js:
 - stable
 script:
