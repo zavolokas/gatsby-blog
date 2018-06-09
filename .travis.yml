@@ -13,8 +13,8 @@ deploy:
   skip-cleanup: true
   # keep-history: true
   local-dir: public
-  # target-branch: master
-  # on:
-  #   branch: develop
+  target-branch: develop
+  on:
+    branch: master
   api_key:
     secure: BQWM1p155rRYhKHNcZNe4Bg8e/DmSaw1HjL9qrx7zj7OoN6wru0Xnz2krwSFwRvJoZFy+tnCPgo8jlBa/UgBbX2ioVYmuciEs8cji2YaCzoI9M3cP6IHF+cFqz8/6SXEHIj7I3uvBFDQEOM+t1DJR0wxS5A5hwnxJ7xm55fKWOarMPBQKwvojz1Htupz8jzUxsvo/edYG+z2uxJRMRQS609Uc3MJYPG0fjoaBmwtfPDWMg6eQqBw6JBWeBkRd0EzsTDrTi0awEUQ6e7l6G+i20A3E8VRSLgTCDgSA61YhvxGQoe1OzF9X+SDx/8X0r52elcZRlGdlzkYhQYt4EYGYkEOPGG0xpnW6V5FKbhsyIlFTXfpkl94jLe6WbrD5sufMT4+0T1G60h/mRrCrR4290OXFZG1veSG3SdNOR2UVeUt8M+6jrrKgt+oJxYX8dbkkauHY9cy8na0N3Q05OesAL43afdafgaz+wWcpfU6rwcRQ9ndhWwUNEt191vSc8OGoDFAecKxrnhYHhvLxpeJWpTr2YFn6CU0yXWlI1uAiZPnHpUM49/ERg5z0y4rqv7a0Dhilp/Zwpdwj0RipXo97frIk/VcncbPUZoyI0a49NOUKDHyTe3CZn6pnkoTnv7Yco9HHHbM9HssoKM2wu4GrbW50wf9/+z6j+R0Qo09mJU=
