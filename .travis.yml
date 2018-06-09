@@ -9,9 +9,9 @@ script:
 - yarn build
 deploy:
   provider: heroku
-  app: zavolokas
+  app: zavolokas-blog
   skip-cleanup: true
-  keep-history: true
+  # keep-history: true
   local-dir: public
   # target-branch: master
   # on:
