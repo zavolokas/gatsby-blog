@@ -4,7 +4,7 @@ language: node_js
 #   directories:
 #   - "~/.npm"
 node_js:
-- stable
+- '9'
 script:
 - yarn build
 deploy:
