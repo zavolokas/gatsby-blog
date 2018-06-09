@@ -10,7 +10,6 @@ script:
 deploy:
   provider: heroku
   app: zavolokas-blog
-  provider: pages
   skip-cleanup: true
   keep-history: true
   local-dir: public
